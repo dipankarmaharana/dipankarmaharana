@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipankar Maharana</h1>
 <h3 align="center">Development | Programming</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **dipankarmaharana83@gmail.com**
 
